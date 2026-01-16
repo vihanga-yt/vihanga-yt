@@ -57,18 +57,20 @@ I'm **Vihanga**, a passionate developer from **Sri Lanka** 🇱🇰. I started m
 ### 📊 GitHub Stats
 
 <div align="center">
+
   <a href="https://github.com/vihanga-yt">
-  <img src="https://github-readme-stats.vercel.app/api?username=vihanga-yt&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=667eea&icon_color=f093fb" height="180" alt="Vihanga's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vihanga-yt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a" alt="Stats" />
   </a>
-  
+
   <a href="https://github.com/vihanga-yt">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihanga-yt&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=667eea" height="180" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihanga-yt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a" alt="Top Languages" />
   </a>
+
 </div>
 
 <div align="center">
   <a href="https://github.com/vihanga-yt">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihanga-yt&theme=dark&hide_border=true&background=0a0a0a&ring=667eea&currStreakLabel=667eea" alt="Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihanga-yt&theme=tokyonight&hide_border=true&background=0a0a0a" alt="Streak" />
   </a>
 </div>
 
