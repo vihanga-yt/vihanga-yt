@@ -1,17 +1,17 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0a0a,667eea,764ba2,f093fb&height=250&section=header&text=Vihanga%20Ranasinghe&fontSize=80&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20from%20Sri%20Lanka&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn" alt="Vihanga Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0a0a,667eea,764ba2,f093fb&height=250&section=header&text=Vihanga%20Ranasinghe&fontSize=80&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn" alt="Vihanga Header" width="100%"/>
 
   <h3 align="center">Building the future, one line of code at a time. 🚀</h3>
 
   <div align="center">
-    <a href="https://vihanga.is-a.dev">
-      <img src="https://img.shields.io/badge/Portfolio-vihanga.is--a.dev-667eea?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" />
+    <a href="https://vihangayt.dev">
+      <img src="https://img.shields.io/badge/Website-vihangayt.dev-667eea?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" />
     </a>
     <a href="https://linkedin.com/in/vihanga-ranasinghe">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:contact@vihangayt.dev">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
     </a>
   </div>
@@ -25,7 +25,7 @@
 I'm **Vihanga**, a passionate developer from **Sri Lanka** 🇱🇰. I started my coding journey in **2021**, diving deep into the world of web development. I love crafting innovative digital experiences using modern technologies like **Node.js** and **Tailwind CSS**.
 
 - 🔭 I’m currently working on **Full Stack Web Applications**.
-- 🌱 I’m currently learning **Advanced React Patterns & System Design**.
+- 🌱 I’m currently learning **Advanced React Patterns**.
 - 💼 I’m open to **freelance projects**.
 - ⚡ **Fun fact:** I've been coding since I was 12!
 
@@ -57,12 +57,19 @@ I'm **Vihanga**, a passionate developer from **Sri Lanka** 🇱🇰. I started m
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vihanga-yt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a" height="180" alt="Vihanga's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihanga-yt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a" height="180" alt="Top Languages" />
+  <a href="https://github.com/vihanga-yt">
+  <img src="https://github-readme-stats.vercel.app/api?username=vihanga-yt&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=667eea&icon_color=f093fb" height="180" alt="Vihanga's Stats" />
+  </a>
+  
+  <a href="https://github.com/vihanga-yt">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihanga-yt&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=667eea" height="180" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihanga-yt&theme=tokyonight&hide_border=true&background=0a0a0a" alt="Streak" />
+  <a href="https://github.com/vihanga-yt">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihanga-yt&theme=dark&hide_border=true&background=0a0a0a&ring=667eea&currStreakLabel=667eea" alt="Streak" />
+  </a>
 </div>
 
 <br/>
